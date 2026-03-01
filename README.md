@@ -11,9 +11,13 @@ Estudante de Sistemas de Informação na **UFS** e Técnico em Automação Indus
 ### 🌐 Tecnologias e Ferramentas
 
 **Desenvolvimento de Software**
+
+
 [![Software](https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs&perline=10)](https://skillicons.dev)
 
 **Hardware & Automação**
+
+
 [![Hardware](https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,linux&perline=10)](https://skillicons.dev)
 
 ---
