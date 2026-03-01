@@ -1,6 +1,6 @@
 # Hello World! Eu sou Silas Santos.
 
-Estudante de Sistemas de Informação na **UFS** e Técnico em Automação Industrial pelo **IFBA**. Tenho foco em desenvolver soluções que unem o mundo do software com a eletrônica e monitoramento inteligente.
+Estudante de Sistemas de Informação na **UFS** e Técnico em Automação Industrial pelo **IFBA**. Tenho foco em desenvolver soluções que unem o mundo do software com a eletrônica e monitoramento inteligente. Atuo como bolsista em um projeto de iniciação tecnológica, no qual trabalho com prototipagem e desenvolvimento de um mecanismo autônomo para manipulação de portas domésticas.
 
 - 🎓 Graduando em Sistemas de Informação | **UFS**
 - ⚙️ Técnico em Automação Industrial | **IFBA**
@@ -15,15 +15,10 @@ Estudante de Sistemas de Informação na **UFS** e Técnico em Automação Indus
 
 **Hardware & Automação**
 [![Hardware](https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,linux&perline=10)](https://skillicons.dev)
----
-
-### 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S1l45S&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ---
 
-### 📫 Conecte-se Comigo
+### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silas-santos-479569327/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ssilas955@gmail.com)
