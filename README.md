@@ -1,5 +1,4 @@
 # Hello World! Eu sou Silas Santos 👋
-<img align="right" alt="Coding" width="400" src="https://contributor-graph-assets.s3.ap-south-1.amazonaws.com/S1l45S_weekly.png">
 
 Estudante de Sistemas de Informação na **UFS** e Técnico em Automação Industrial pelo **IFBA**. Tenho foco em desenvolver soluções que unem o mundo do software com a eletrônica e monitoramento inteligente. Atuo como bolsista em um projeto de iniciação tecnológica, no qual trabalho com prototipagem e desenvolvimento de um mecanismo autônomo para manipulação de portas domésticas.
 
